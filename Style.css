@@ -53,17 +53,21 @@ body.Tokyo {
     font-family: Arial, sans-serif;
 }
 
-body.Osaka {
-    background: url(https://images.unsplash.com/photo-1589452271712-64b8a66c7b71?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center/cover no-repeat fixed;
-     margin: 0;
-    font-family: Arial, sans-serif;
-}
 
 body.Kyoto {
     background: url(https://images.unsplash.com/photo-1545569341-9eb8b30979d9?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center/cover no-repeat fixed;
      margin: 0;
     font-family: Arial, sans-serif;
 }
+
+
+body.Osaka {
+    background: url(https://images.unsplash.com/photo-1589452271712-64b8a66c7b71?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center/cover no-repeat fixed;
+     margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
 
 button {
     background-color: #2b2a2a;
@@ -77,3 +81,4 @@ button {
 button:hover {
     background-color: #444242;
 }
+
